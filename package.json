@@ -10,5 +10,8 @@
     "notifier"
   ],
   "author": "dadajam4",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^5.0.2"
+  }
 }
